@@ -1,0 +1,75 @@
+body{
+    background-color: blanchedalmond;
+}
+.main_heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    margin-left: 60px;
+}
+.ctc{
+    margin-left: 100px;
+}
+.contact{
+    margin-left: 20px;
+    
+}
+.contact li{
+    padding: 5px;
+    list-style: none;
+    font-family: cursive;
+    font-size: 14px;
+}
+.main_div{
+    background-color: #234567;
+    width: 350px;
+    height: 600px;
+    color: white;
+       
+}
+.body_div{
+    width: 100%;
+    height: auto;
+    margin-left: 370px;
+    margin-top: -610px;
+    
+}
+.name{
+    margin-top: 60px;
+    font-size: 40px;
+    color: #234567;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+.ocu{
+    margin-top: -30px;
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.info{
+    background-color: #234567;
+    width: 220px;
+    font-size: 20px;
+}
+.para{
+    color: black;
+}
+.edu{
+    background-color: #234567;
+    width: 220px;
+    font-size: 20px;
+}
+.ed{
+    color: black;
+    font-size: 20px;
+}
+.pr{
+    color: black;
+    font-size: 16px;
+}
